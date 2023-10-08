@@ -8,7 +8,7 @@ if [ ! -s ${DOWNLOAD}/${FILE} ]; then
      curl -o ${DOWNLOAD}/${FILE} ${URL}/${FILE} 
 fi
 
-./build.sh ${RVERSION}
+./build-R.sh ${RVERSION}
 
 for EXE in R Rscript
 do
