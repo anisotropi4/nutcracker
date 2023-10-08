@@ -1,5 +1,5 @@
 # nutcracker
-Dual R and python3 environment for R version 4.3.1 and the lastest python
+R and python3 environments for R version 4.3.1 and the latest python
 
 For reasons, and in no small part to my trying to set up a working environment with libraries, here is a go at a build system for R and dependencies
 
