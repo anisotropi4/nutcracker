@@ -13,6 +13,6 @@ This also uses `Rscript` to install libraries listed in the `libraries.R` file
 
 ## Additional dependencies
 
-If you want OS `LAPACK` and `BLAS` library support install:
+If you want OS `LAPACK` library support install:
 
-    $ sudo apt install liblapack64-dev libblasr-dev
+    $ sudo apt install liblapack64-dev
